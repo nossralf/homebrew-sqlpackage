@@ -1,9 +1,9 @@
 class Sqlpackage < Formula
   desc "SqlPackage is a command-line utility that automates various MSSQL tasks"
   homepage "https://docs.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage"
-  url "https://go.microsoft.com/fwlink/?linkid=2196439"
-  sha256 "78b0c042c67685b3a8c9531ae978b74482ebc6da4adade23f57f6ccb3675d580"
-  version "19.1"
+  url "https://go.microsoft.com/fwlink/?linkid=2209610"
+  sha256 "59940e91c56df616576b3b420bb0610d82c6ce2a82a02dcb3bacc50dd5bf4d23"
+  version "19.2"
 
   def install
     libexec.install Dir["*"]
