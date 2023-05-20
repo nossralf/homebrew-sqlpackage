@@ -1,9 +1,9 @@
 class Sqlpackage < Formula
   desc "SqlPackage is a command-line utility that automates various MSSQL tasks"
   homepage "https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage"
-  url "https://go.microsoft.com/fwlink/?linkid=2225106"
-  sha256 "64284d3a5ab533aabe97453d6f064fc682d5750956f2904577f0a72c2999a851"
-  version "161.8089.0"
+  url "https://go.microsoft.com/fwlink/?linkid=2236426"
+  sha256 "47cafd291df420cfb794e0d672a49395b45c322b6e0987c24d0507e5b1e14ae7"
+  version "162.0.52"
 
   depends_on arch: :x86_64
 
